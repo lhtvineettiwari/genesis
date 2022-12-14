@@ -1,1 +1,1 @@
-[{"name":"vineet","ammount":"100stake"}, {"name":"alice","ammount":"100stake"}]
+[{"name":"vineet","amount":"100stake"}, {"name":"alice","amount":"100stake"}]
